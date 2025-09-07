@@ -285,6 +285,10 @@ The application is deployed on Render and can be accessed at:
    - Ensure all environment variables are set in Render dashboard
    - Check build and start commands are correct
 
+## 📸 Screenshots
+
+![https://github.com/hellman53/Todo-extension/blob/e9f3bfa44826f56fe1708b332cfa3fae8867bbf8/public/snapshot.png](https://github.com/hellman53/Memora/blob/81358c6e2e863206cb55e32587b3b8a837fba7ff/frontend/public/app_view.png)
+
 ## 📝 License
 
 This project is licensed under the ISC License.
